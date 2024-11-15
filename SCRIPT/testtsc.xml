@@ -3,7 +3,7 @@
   <type>6</type>
   <appObjectDesc class="SCRIPT">
     <type>0</type>
-    <scriptText>;tets
+    <scriptText>;tets;;addone
 </scriptText>
     <javaScriptMode>0</javaScriptMode>
     <created class="com.poet.rt.db.tracked.TrackedDate">2024-11-15 05:01:50.0 GMT</created>
